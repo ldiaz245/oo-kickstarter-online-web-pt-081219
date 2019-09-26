@@ -1,4 +1,4 @@
-backer.new
+class.project
 
 attr_reader :backer
-@backed_projects = backed_projects
+@backed_projects = ("backed_projects")
